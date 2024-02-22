@@ -31,3 +31,4 @@ C:\Users\niels\OneDrive\Desktop\PLANETEGEM\NetPlayground\MonoGame3DPlayground\Mo
 C:\Users\niels\OneDrive\Desktop\PLANETEGEM\NetPlayground\MonoGame3DPlayground\MonoGame3DPlayground\bin\Debug\net6.0\Content\textures\square.xnb
 C:\Users\niels\OneDrive\Desktop\PLANETEGEM\NetPlayground\MonoGame3DPlayground\MonoGame3DPlayground\bin\Debug\net6.0\Content\textures\tile.xnb
 C:\Users\niels\OneDrive\Desktop\PLANETEGEM\NetPlayground\MonoGame3DPlayground\MonoGame3DPlayground\bin\Debug\net6.0\Content\fonts\coordinateFont.xnb
+C:\Users\niels\OneDrive\Desktop\PLANETEGEM\NetPlayground\MonoGame3DPlayground\MonoGame3DPlayground\obj\Debug\net6.0\MonoGame3DPlayground.sourcelink.json
