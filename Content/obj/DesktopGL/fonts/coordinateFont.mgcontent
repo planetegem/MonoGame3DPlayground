@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/niels/OneDrive/Desktop/PLANETEGEM/NetPlayground/MonoGame3DPlayground/MonoGame3DPlayground/Content/fonts/coordinateFont.spritefont</SourceFile>
+  <SourceTime>2024-02-22T14:05:27.5494826+01:00</SourceTime>
+  <DestFile>C:/Users/niels/OneDrive/Desktop/PLANETEGEM/NetPlayground/MonoGame3DPlayground/MonoGame3DPlayground/Content/bin/DesktopGL/fonts/coordinateFont.xnb</DestFile>
+  <DestTime>2024-02-22T14:07:03.0905434+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

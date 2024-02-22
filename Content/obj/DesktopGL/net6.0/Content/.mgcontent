@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/niels/OneDrive/Desktop/PLANETEGEM/NetPlayground/MonoGame3DPlayground/MonoGame3DPlayground/Content/fonts/coordinateFont.spritefont</File>
+    <File>C:/Users/niels/OneDrive/Desktop/PLANETEGEM/NetPlayground/MonoGame3DPlayground/MonoGame3DPlayground/Content/models/circle.fbx</File>
+    <File>C:/Users/niels/OneDrive/Desktop/PLANETEGEM/NetPlayground/MonoGame3DPlayground/MonoGame3DPlayground/Content/models/percolator.fbx</File>
+    <File>C:/Users/niels/OneDrive/Desktop/PLANETEGEM/NetPlayground/MonoGame3DPlayground/MonoGame3DPlayground/Content/models/tile.fbx</File>
+    <File>C:/Users/niels/OneDrive/Desktop/PLANETEGEM/NetPlayground/MonoGame3DPlayground/MonoGame3DPlayground/Content/textures/circle.png</File>
+    <File>C:/Users/niels/OneDrive/Desktop/PLANETEGEM/NetPlayground/MonoGame3DPlayground/MonoGame3DPlayground/Content/textures/square.png</File>
+    <File>C:/Users/niels/OneDrive/Desktop/PLANETEGEM/NetPlayground/MonoGame3DPlayground/MonoGame3DPlayground/Content/textures/tile.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
